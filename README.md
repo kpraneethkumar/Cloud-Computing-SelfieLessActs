@@ -4,7 +4,7 @@ mini project based on  Cloud on selfieless acts
 There are 5 stages of the project-
 1) Cretaing a VM .
 2) Writing API's.
-3)Creating containers and placing the API's in two seperate containers.(acts and users)
+3)Creating containers and placing the API's in two seperate containers.(acts and users).
 4)Creating load balancers to routte to containers paced in two different VM's.
 5)Creating an orchestrator.
 
